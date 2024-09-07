@@ -8,17 +8,15 @@
 ```
  Directory of C:\Users\User\source\repos\ClassicTheme\x64\Release
 
-2024-09-07  오후 09:02    <DIR>          .
-2024-09-07  오후 09:02    <DIR>          ..
-2024-09-07  오후 07:44             5,186 ClassicTheme (2).7z
-2024-09-07  오후 07:46             5,549 ClassicTheme (2).lzh
-2024-09-07  오후 07:45             5,642 ClassicTheme (2).zip
-2024-09-07  오후 07:44             5,207 ClassicTheme.7z
-2024-09-07  오후 07:43            12,288 ClassicTheme.exe
-2024-09-07  오후 07:45             5,494 ClassicTheme.exe.gz
-2024-09-07  오후 07:45             5,092 ClassicTheme.exe.xz
-2024-09-07  오후 07:44             5,490 ClassicTheme.zip
-2024-09-07  오후 07:45             6,381 ClassicTheme.zpaq
-               9 File(s)         56,329 bytes
-               2 Dir(s)  20,782,940,160 bytes free
+2024-09-07  오후 09:11    <DIR>          .
+2024-09-07  오후 09:11    <DIR>          ..
+2024-09-07  오후 09:10             4,938 ClassicTheme.7z
+2024-09-07  오후 09:10            11,776 ClassicTheme.exe
+2024-09-07  오후 09:11             5,202 ClassicTheme.exe.gz
+2024-09-07  오후 09:11             4,844 ClassicTheme.exe.xz
+2024-09-07  오후 09:10             5,350 ClassicTheme.zip
+2024-09-07  오후 09:11             5,006 ClassicTheme.zipx
+2024-09-07  오후 09:11             6,077 ClassicTheme.zpaq
+               7 File(s)         43,193 bytes
+               2 Dir(s)  20,789,006,336 bytes free
 ```
