@@ -6,19 +6,20 @@
 * To disable the Classic theme: Run `ClassicTheme.exe` with any arguments as admin
 
 ```
- Directory of C:\Users\User\source\repos\ClassicTheme\x64\Release
+ Directory of C:\Users\User\source\repos\TinyClassicTheme\x64\Release
 
-2025-01-04  오후 08:39    <DIR>          .
-2025-01-04  오후 08:39    <DIR>          ..
-2025-01-04  오후 08:38             4,889 ClassicTheme.7z
-2025-01-04  오후 08:37            11,776 ClassicTheme.exe
-2025-01-04  오후 08:38             5,152 ClassicTheme.exe.gz
-2025-01-04  오후 08:38             4,792 ClassicTheme.exe.xz
-2025-01-04  오후 08:38             5,191 ClassicTheme.lzh
-2025-01-04  오후 08:38             5,223 ClassicTheme.tgz
-2025-01-04  오후 08:38             5,300 ClassicTheme.zip
-2025-01-04  오후 08:39             4,954 ClassicTheme.zipx
-2025-01-04  오후 08:39             7,074 ClassicTheme.zpaq
-               7 File(s)         43,193 bytes
-               2 Dir(s)  20,789,006,336 bytes free
+2026-11-08  오전 08:07    <DIR>          .
+2026-11-08  오전 08:07    <DIR>          ..
+2026-11-08  오전 08:03             4,560 ClassicTheme.7z
+2026-11-08  오전 08:02             9,856 ClassicTheme.exe
+2026-11-08  오전 08:06             4,983 ClassicTheme.exe.bz2
+2026-11-08  오전 08:05             4,759 ClassicTheme.exe.gz
+2026-11-08  오전 08:07             4,460 ClassicTheme.exe.xz
+2026-11-08  오전 08:05             4,807 ClassicTheme.lzh
+2026-11-08  오전 08:04             4,830 ClassicTheme.tgz
+2026-11-08  오전 08:06             4,779 ClassicTheme.zip
+2026-11-08  오전 08:04             4,626 ClassicTheme.zipx
+2026-11-08  오전 08:05             5,616 ClassicTheme.zpaq
+              10 File(s)         53,276 bytes
+               2 Dir(s)  108,093,685,760 bytes free
 ```

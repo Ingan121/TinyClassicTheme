@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ClassicTheme.cpp">
+    <ClCompile Include="ClassicTheme.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
