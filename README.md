@@ -4,7 +4,7 @@
 * To build it yourself, you might need to install WDK, because it uses `ntdll.lib`.
 ### Usage
 * To enable the Classic theme: Run `ClassicTheme.exe` as admin
-* To disable the Classic theme: Run `ClassicTheme.exe 1` as admin (without any extra letters behind 1, include spaces and quotes)
+* To disable the Classic theme: Run `ClassicTheme.exe 1` as admin (without any extra letters behind 1, including spaces and quotes)
 
 ```
  Directory of C:\Users\User\source\repos\TinyClassicTheme\x64\Release
